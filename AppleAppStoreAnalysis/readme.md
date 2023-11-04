@@ -2,7 +2,7 @@ README for Apple App Store Analysis Project
 
 Project Context
 
-This project conducts a detailed exploratory data analysis on a dataset from the Apple App Store. Using SQL queries, we've extracted meaningful insights to understand the trends and dynamics of app performance within the store. The aim is to provide aspiring software developers with actionable data that can guide their app development and marketing strategies.
+This project conducts a detailed exploratory data analysis on a dataset from the Apple App Store. Using SQL queries, I've extracted meaningful insights to understand the trends and dynamics of app performance within the store. The aim is to provide aspiring software developers with actionable data that can guide their app development and marketing strategies.
 
 Audience
 
