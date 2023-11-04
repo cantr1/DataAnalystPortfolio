@@ -31,8 +31,6 @@ Tools Used
 
 How to Use This Project
 
-To delve into this analysis:
-
     Review the Code: Look through the SQL queries to understand how the data was manipulated and analyzed.
     
     Examine the Insights: Read through the insights generated from the data and 
