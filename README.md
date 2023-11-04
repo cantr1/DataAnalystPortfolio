@@ -18,7 +18,8 @@ This repository serves as a comprehensive showcase of my expertise in data analy
     Programming Proficiency: Writing clean, efficient code in Python to manipulate data 
     and automate tasks.
     
-    Reporting & Business Intelligence: Crafting compelling stories with data to influence strategic decisions.
+    Reporting & Business Intelligence: Crafting compelling stories with data 
+    to influence strategic decisions.
 
 # Projects 
 
