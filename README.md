@@ -55,7 +55,7 @@ Objective: Deliver strategic insights to investors targeting the burgeoning Indi
 
 Tools & Methods:
 
-    Python: Utilized pandas for data cleaning and MatPlotLib for visualizations.
+    Python: Utilized pandas for data cleaning.
     
     Tableau: Designed interactive dashboards that highlight key trends in vehicle preferences, 
     pricing, and sales patterns across India.
