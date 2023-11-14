@@ -73,6 +73,20 @@ Tools & Methods:
     Insights: Compiled a report detailing the relationship between key heart health metrics
     and the prevalence of heart disease to inform preventative care strategies.
 
+- Cyber Security Salary Analysis Project
+
+Objective: Provide valuable insights into the salary trends and disparities in the cyber security industry, aimed at guiding professionals, recruiters, and industry analysts. 
+Tools & Methods:
+
+    Jupyter: Utilized as the primary interactive development environment for exploratory data analysis 
+    and visualization. Enabled seamless integration of code, visual output, and narrative text.
+
+    Python: Leveraged for robust data processing and analysis. 
+    Utilized libraries such as pandas for data manipulation and NumPy for numerical computations.
+
+    Matplotlib (MPL): Employed for creating detailed and informative visualizations. 
+    Designed graphs and charts to illustrate salary trends, employment variations, 
+    and experience-based differences in compensation within the cyber security field.
     
 
 Each project is accompanied by a thorough README document, providing an overview of the project's context, the analytical approach taken, and a summary of findings. By perusing these projects, you will gain insights into my problem-solving capabilities, technical expertise, and ability to communicate complex data-driven insights in a clear and impactful manner.
