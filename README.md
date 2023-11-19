@@ -25,54 +25,60 @@ This repository serves as a comprehensive showcase of my expertise in data analy
 
 Below is an overview of select projects I have developed, showcasing my abilities in data analysis, visualization, and interpretation. Each project is aimed at delivering actionable insights to a specific audience, utilizing various data science techniques and tools.
 
-- Apple App Store Data Analysis
+Apple App Store Data Analysis
 
-Objective: Provide actionable insights to aspiring software developers on market trends.
-Tools & Methods:
-
-    SQL: Executed complex queries to extract and analyze key data points from the App Store dataset.
+    Objective: Provide actionable insights to aspiring software developers on market trends.
     
-    Analysis: Identified popular categories, trends in user ratings, 
-    and pricing strategies that correlate with higher user ratings and engagement.
+    Tools & Methods:
+
+        SQL: Executed complex queries to extract and analyze key data points from the App Store dataset.
+    
+        Analysis: Identified popular categories, trends in user ratings, 
+        and pricing strategies that correlate with higher user ratings and engagement.
 
     
 
-- Israel-Palestine Casualties in Gaza Data Analysis
+Israel-Palestine Casualties in Gaza Data Analysis
 
-Objective: Offer comprehensive insights into the conflict's human impact for educators, historians, and policymakers.
-Tools & Methods:
-
-    Python: Employed data manipulation libraries (pandas) to cleanse and structure casualty data.
+    Objective: Offer comprehensive insights into the conflict's human impact for educators, historians, and policymakers.
     
-    Tableau: Created compelling visualizations to depict the temporal and demographic distribution of 
-    casualties, enhancing understanding of the conflict's human toll.
+    Tools & Methods:
 
-
-- Heart Disease Analysis in the American Population
-
-Objective: Aid healthcare professionals and patients in understanding and preventing heart disease, a leading health concern in the USA.
-Tools & Methods:
-
-    Python: Conducted correlational analysis with Seaborn and 
-    created visualizations with MatPlotLib to identify risk factors associated with heart disease.
+        Python: Employed data manipulation libraries (pandas) to cleanse and structure casualty data.
     
-    Insights: Compiled a report detailing the relationship between key heart health metrics
-    and the prevalence of heart disease to inform preventative care strategies.
+        Tableau: Created compelling visualizations to depict the temporal and demographic distribution of 
+        casualties, enhancing understanding of the conflict's human toll.
 
-- Cyber Security Salary Analysis Project
 
-Objective: Provide valuable insights into the salary trends and disparities in the cyber security industry, aimed at guiding professionals, recruiters, and industry analysts. 
-Tools & Methods:
+Heart Disease Analysis in the American Population
 
-    Jupyter: Utilized as the primary interactive development environment for exploratory data analysis 
-    and visualization. Enabled seamless integration of code, visual output, and narrative text.
+    Objective: Aid healthcare professionals and patients in understanding and preventing heart disease, 
+    a leading health concern in the USA.
+    
+    Tools & Methods:
+    
+        Python: Conducted correlational analysis with Seaborn and 
+        created visualizations with MatPlotLib to identify risk factors associated with heart disease.
+    
+        Insights: Compiled a report detailing the relationship between key heart health metrics
+        and the prevalence of heart disease to inform preventative care strategies.
 
-    Python: Leveraged for robust data processing and analysis. 
-    Utilized libraries such as pandas for data manipulation and NumPy for numerical computations.
+Cyber Security Salary Analysis Project
 
-    Matplotlib (MPL): Employed for creating detailed and informative visualizations. 
-    Designed graphs and charts to illustrate salary trends, employment variations, 
-    and experience-based differences in compensation within the cyber security field.
+    Objective: Provide valuable insights into the salary trends and disparities in the cyber security industry, 
+    aimed at guiding professionals, recruiters, and industry analysts. 
+    
+    Tools & Methods:
+
+        Jupyter: Utilized as the primary interactive development environment for exploratory data analysis 
+        and visualization. Enabled seamless integration of code, visual output, and narrative text.
+
+        Python: Leveraged for robust data processing and analysis. 
+        Utilized libraries such as pandas for data manipulation and NumPy for numerical computations.
+
+        Matplotlib (MPL) & Seaborn (SNS): Employed for creating detailed and informative visualizations. 
+        Designed graphs and charts to illustrate salary trends, employment variations, 
+        and experience-based differences in compensation within the cyber security field.
     
 
 Each project is accompanied by a thorough README document, providing an overview of the project's context, the analytical approach taken, and a summary of findings. By perusing these projects, you will gain insights into my problem-solving capabilities, technical expertise, and ability to communicate complex data-driven insights in a clear and impactful manner.
