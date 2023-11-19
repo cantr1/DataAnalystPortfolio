@@ -47,20 +47,6 @@ Tools & Methods:
     Tableau: Created compelling visualizations to depict the temporal and demographic distribution of 
     casualties, enhancing understanding of the conflict's human toll.
 
-    
-
-- Used Car Sales in India Data Analysis
-
-Objective: Deliver strategic insights to investors targeting the burgeoning Indian used car market.
-
-Tools & Methods:
-
-    Python: Utilized pandas for data cleaning.
-    
-    Tableau: Designed interactive dashboards that highlight key trends in vehicle preferences, 
-    pricing, and sales patterns across India.
-
-    
 
 - Heart Disease Analysis in the American Population
 
