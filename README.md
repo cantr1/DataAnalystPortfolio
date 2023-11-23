@@ -5,21 +5,37 @@ Welcome to my professional portfolio on GitHub! I'm Kelly, an enthusiastic data 
 
 This repository serves as a comprehensive showcase of my expertise in data analysis, featuring projects that demonstrate my proficiency in:
 
-    Data Cleaning & Preprocessing: Ensuring datasets are pristine and primed for analysis.
-    
-    Exploratory Data Analysis (EDA): Uncovering patterns, spotting anomalies, 
-    and generating hypotheses through rigorous examination.
-    
-    Data Visualization: Transforming complex datasets into intuitive and insightful 
-    visual representations using tools like Tableau, Power BI, and Matplotlib.
-    
-    SQL & Database Management: Efficiently querying databases and managing data with SQL.
-    
-    Programming Proficiency: Writing clean, efficient code in Python to manipulate data 
-    and automate tasks.
-    
-    Reporting & Business Intelligence: Crafting compelling stories with data 
-    to influence strategic decisions.
+    Data Cleaning & Preprocessing: Conducting meticulous cleaning and 
+    preparation of datasets, ensuring they are free from inconsistencies 
+    and formatted suitably for comprehensive analysis.
+
+    Exploratory Data Analysis (EDA): Diving deep into data to discover 
+    underlying patterns, identifying anomalies, and formulating hypotheses 
+    through a methodical exploratory process.
+
+    Data Visualization: Converting intricate data sets into clear, 
+    actionable visual narratives using advanced tools like 
+    Tableau, Power BI, Matplotlib, and Seaborn.
+
+    SQL & Database Management: Utilizing SQL to execute complex queries 
+    for data retrieval, manipulation, and management, ensuring 
+    seamless database operations.
+
+    Programming Proficiency: Demonstrating strong coding skills 
+    in Python for data analysis, employing libraries like pandas 
+    and NumPy to streamline data workflows.
+
+    Statistical Analysis & Inference: Applying statistical methods 
+    and probabilistic reasoning to analyze data trends, test hypotheses, 
+    and validate findings with tools like SciPy and statsmodels.
+
+    Machine Learning & Predictive Modeling: Building and tuning predictive models 
+    using machine learning algorithms in scikit-learn to drive 
+    data-driven forecasts and insights.
+
+    Reporting & Business Intelligence: Synthesizing data into informative reports 
+    and dashboards that deliver business intelligence and facilitate data-driven 
+    decision-making, backed by a solid foundation in data storytelling techniques.
 
 # Projects 
 
