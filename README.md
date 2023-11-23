@@ -25,6 +25,32 @@ This repository serves as a comprehensive showcase of my expertise in data analy
 
 Below is an overview of select projects I have developed, showcasing my abilities in data analysis, visualization, and interpretation. Each project is aimed at delivering actionable insights to a specific audience, utilizing various data science techniques and tools.
 
+Titanic Survival Analysis
+
+    Objective: Uncover the factors that influenced survival rates during the 
+    Titanic disaster and predict survival outcomes for similar maritime incidents.
+
+    Tools & Methods:
+
+    Python: Leveraged Python's data science libraries including pandas for data manipulation, 
+    matplotlib and seaborn for data visualization, and scikit-learn 
+    for implementing machine learning models.
+
+    Data Cleaning and Preprocessing: Conducted thorough preprocessing steps such as handling missing values, 
+    feature encoding, and data transformation to prepare the dataset for analysis.
+
+    Exploratory Data Analysis (EDA): Employed statistical analysis and visualization 
+    techniques to explore the relationships between passenger attributes (like sex, age, class) and survival rates.
+
+    Machine Learning Modeling: Developed a RandomForestClassifier to predict survival outcomes.
+    Utilized hyperparameter tuning to enhance model performance.
+
+    Cross-Validation: Implemented k-fold cross-validation to assess model 
+    obustness and ensure reliability in prediction across various data segments.
+
+    Statistical Testing: Performed hypothesis testing to determine the statistical 
+    significance of observed patterns, particularly in relation to passenger embarkation points and survival rates.
+    
 Apple App Store Data Analysis
 
     Objective: Provide actionable insights to aspiring software developers on market trends.
