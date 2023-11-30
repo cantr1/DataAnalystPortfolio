@@ -37,35 +37,33 @@ This repository serves as a comprehensive showcase of my expertise in data analy
     and dashboards that deliver business intelligence and facilitate data-driven 
     decision-making, backed by a solid foundation in data storytelling techniques.
 
-# Projects 
+## Overview of Projects
 
-Below is an overview of select projects I have developed, showcasing my abilities in data analysis, visualization, and interpretation. Each project is aimed at delivering actionable insights to a specific audience, utilizing various data science techniques and tools.
+### Titanic Survival Analysis
 
-Titanic Survival Analysis
+**Objective:** Uncover the factors that influenced survival rates during the Titanic disaster and predict survival outcomes for similar maritime incidents.
 
-    Objective: Uncover the factors that influenced survival rates during the 
-    Titanic disaster and predict survival outcomes for similar maritime incidents.
+**Tools & Methods:**
 
-    Tools & Methods:
+- **Python:** Leveraged Python's data science libraries including pandas for data manipulation, matplotlib and seaborn for data visualization, and scikit-learn for implementing machine learning models.
+- **Data Cleaning and Preprocessing:** Conducted thorough preprocessing steps such as handling missing values, feature encoding, and data transformation to prepare the dataset for analysis.
+- **Exploratory Data Analysis (EDA):** Employed statistical analysis and visualization techniques to explore the relationships between passenger attributes (like sex, age, class) and survival rates.
+- **Machine Learning Modeling:** Developed a RandomForestClassifier to predict survival outcomes. Utilized hyperparameter tuning to enhance model performance.
+- **Cross-Validation:** Implemented k-fold cross-validation to assess model robustness and ensure reliability in prediction across various data segments.
+- **Statistical Testing:** Performed hypothesis testing to determine the statistical significance of observed patterns, particularly in relation to passenger embarkation points and survival rates.
 
-    Python: Leveraged Python's data science libraries including pandas for data manipulation, 
-    matplotlib and seaborn for data visualization, and scikit-learn 
-    for implementing machine learning models.
+### California Housing Market Analysis
 
-    Data Cleaning and Preprocessing: Conducted thorough preprocessing steps such as handling missing values, 
-    feature encoding, and data transformation to prepare the dataset for analysis.
+**Objective:** Analyze the California housing market to identify key factors influencing median home values and predict future housing prices.
 
-    Exploratory Data Analysis (EDA): Employed statistical analysis and visualization 
-    techniques to explore the relationships between passenger attributes (like sex, age, class) and survival rates.
+**Tools & Methods:**
 
-    Machine Learning Modeling: Developed a RandomForestClassifier to predict survival outcomes.
-    Utilized hyperparameter tuning to enhance model performance.
-
-    Cross-Validation: Implemented k-fold cross-validation to assess model 
-    obustness and ensure reliability in prediction across various data segments.
-
-    Statistical Testing: Performed hypothesis testing to determine the statistical 
-    significance of observed patterns, particularly in relation to passenger embarkation points and survival rates.
+- **Python:** Utilized Python for data wrangling, analysis, and machine learning, with a focus on the pandas, NumPy, Matplotlib, and Seaborn libraries for data manipulation and visualization.
+- **Feature Engineering:** Crafted new features that capture the complexities of the real estate market, such as proximity to the ocean and household size.
+- **Statistical Analysis:** Calculated correlation coefficients to identify strong predictors of home values, with special attention to median income and geographical location.
+- **Machine Learning Modeling:** Created a RandomForestRegressor model, optimized with grid search and evaluated using k-fold cross-validation to ensure high accuracy and generalizability.
+- **Data Visualization:** Generated insightful plots to visualize geographical pricing trends and the impact of income on housing affordability.
+- **Model Performance:** Achieved a high mean cross-validation score, indicating a model that is both precise and robust in its predictive capabilities.
     
 Apple App Store Data Analysis
 
@@ -78,49 +76,15 @@ Apple App Store Data Analysis
         Analysis: Identified popular categories, trends in user ratings, 
         and pricing strategies that correlate with higher user ratings and engagement.
 
+
+### Heart Disease Analysis in the American Population
+
+**Objective:** Aid healthcare professionals and patients in understanding and preventing heart disease, a leading health concern in the USA.
     
-
-Israel-Palestine Casualties in Gaza Data Analysis
-
-    Objective: Offer comprehensive insights into the conflict's human impact for educators, historians, and policymakers.
+**Tools & Methods:**
+- **Python:** Conducted correlational analysis with Seaborn and created visualizations with MatPlotLib to identify risk factors associated with heart disease.
     
-    Tools & Methods:
-
-        Python: Employed data manipulation libraries (pandas) to cleanse and structure casualty data.
-    
-        Tableau: Created compelling visualizations to depict the temporal and demographic distribution of 
-        casualties, enhancing understanding of the conflict's human toll.
-
-
-Heart Disease Analysis in the American Population
-
-    Objective: Aid healthcare professionals and patients in understanding and preventing heart disease, 
-    a leading health concern in the USA.
-    
-    Tools & Methods:
-    
-        Python: Conducted correlational analysis with Seaborn and 
-        created visualizations with MatPlotLib to identify risk factors associated with heart disease.
-    
-        Insights: Compiled a report detailing the relationship between key heart health metrics
-        and the prevalence of heart disease to inform preventative care strategies.
-
-Cyber Security Salary Analysis Project
-
-    Objective: Provide valuable insights into the salary trends and disparities in the cyber security industry, 
-    aimed at guiding professionals, recruiters, and industry analysts. 
-    
-    Tools & Methods:
-
-        Jupyter: Utilized as the primary interactive development environment for exploratory data analysis 
-        and visualization. Enabled seamless integration of code, visual output, and narrative text.
-
-        Python: Leveraged for robust data processing and analysis. 
-        Utilized libraries such as pandas for data manipulation and NumPy for numerical computations.
-
-        Matplotlib (MPL) & Seaborn (SNS): Employed for creating detailed and informative visualizations. 
-        Designed graphs and charts to illustrate salary trends, employment variations, 
-        and experience-based differences in compensation within the cyber security field.
+- **Insights:** Compiled a report detailing the relationship between key heart health metricsand the prevalence of heart disease to inform preventative care strategies.
     
 
 Each project is accompanied by a thorough README document, providing an overview of the project's context, the analytical approach taken, and a summary of findings. By perusing these projects, you will gain insights into my problem-solving capabilities, technical expertise, and ability to communicate complex data-driven insights in a clear and impactful manner.
