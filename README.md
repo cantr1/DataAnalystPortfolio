@@ -65,27 +65,33 @@ This repository serves as a comprehensive showcase of my expertise in data analy
 - **Data Visualization:** Generated insightful plots to visualize geographical pricing trends and the impact of income on housing affordability.
 - **Model Performance:** Achieved a high mean cross-validation score, indicating a model that is both precise and robust in its predictive capabilities.
     
-Apple App Store Data Analysis
+### Apple App Store Data Analysis
 
-    Objective: Provide actionable insights to aspiring software developers on market trends.
+**Objective**: Provide actionable insights to aspiring software developers on market trends.
     
-    Tools & Methods:
+**Tools & Methods**:
 
-        SQL: Executed complex queries to extract and analyze key data points from the App Store dataset.
+- **SQL**: Executed complex queries to extract and analyze key data points from the App Store dataset.
     
-        Analysis: Identified popular categories, trends in user ratings, 
+- **Analysis**: Identified popular categories, trends in user ratings, 
         and pricing strategies that correlate with higher user ratings and engagement.
 
 
 ### Heart Disease Analysis in the American Population
 
-**Objective:** Aid healthcare professionals and patients in understanding and preventing heart disease, a leading health concern in the USA.
-    
-**Tools & Methods:**
-- **Python:** Conducted correlational analysis with Seaborn and created visualizations with MatPlotLib to identify risk factors associated with heart disease.
-    
-- **Insights:** Compiled a report detailing the relationship between key heart health metricsand the prevalence of heart disease to inform preventative care strategies.
-    
+**Objective**: Provide essential insights to healthcare practitioners and patients to comprehend and mitigate the risks of heart disease, a predominant health challenge in the USA.
+
+**Tools & Methods**:
+
+- **Python Analysis & Visualization**: Utilized Python's analytical prowess through libraries like Seaborn for correlational studies, alongside MatPlotLib for crafting insightful visual representations to pinpoint heart disease risk contributors.
+
+- **Exploratory Data Analysis (EDA)**: Deployed statistical methodologies alongside graphical techniques to dissect and understand the interplay between key health metrics and the incidence of heart disease.
+
+- **Predictive Analytics**: Employed advanced machine learning techniques, configuring models to identify and predict risk factors, while improving their predictive capabilities through hyperparameter tuning.
+
+#### Insights:
+Crafted an in-depth report elucidating the connections between crucial heart health indicators and the prevalence of heart disease, offering actionable guidance for preventive healthcare measures.
+
 
 Each project is accompanied by a thorough README document, providing an overview of the project's context, the analytical approach taken, and a summary of findings. By perusing these projects, you will gain insights into my problem-solving capabilities, technical expertise, and ability to communicate complex data-driven insights in a clear and impactful manner.
 Each project includes a combination of Jupyter notebooks, datasets, visualizations, and technical write-ups that illustrate my approach and findings.
