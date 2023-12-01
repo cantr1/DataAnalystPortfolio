@@ -76,6 +76,8 @@ This repository serves as a comprehensive showcase of my expertise in data analy
 - **Exploratory Data Analysis (EDA)**: Deployed statistical methodologies alongside graphical techniques to dissect and understand the interplay between key health metrics and the incidence of heart disease.
 
 - **Predictive Analytics**: Employed advanced machine learning techniques, configuring models to identify and predict risk factors, while improving their predictive capabilities through hyperparameter tuning.
+
+- ** Dashboard**: Created a visually appealing dashboard in Exel to highlight predictive factors.
     
 ### Apple App Store Data Analysis
 
@@ -87,7 +89,7 @@ This repository serves as a comprehensive showcase of my expertise in data analy
     
 - **Analysis**: Identified popular categories, trends in user ratings, and pricing strategies that correlate with higher user ratings and engagement.
 
-- **Dashboard**: Created an engaging and user-friendly dashboard to visualize key insights.
+- **Dashboard**: Created an engaging and user-friendly dashboard in Tableau to visualize key insights.
 
 
 Each project is accompanied by a thorough README document, providing an overview of the project's context, the analytical approach taken, and a summary of findings. By perusing these projects, you will gain insights into my problem-solving capabilities, technical expertise, and ability to communicate complex data-driven insights in a clear and impactful manner.
