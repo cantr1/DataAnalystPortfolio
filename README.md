@@ -77,7 +77,7 @@ This repository serves as a comprehensive showcase of my expertise in data analy
 
 - **Predictive Analytics**: Employed advanced machine learning techniques, configuring models to identify and predict risk factors, while improving their predictive capabilities through hyperparameter tuning.
 
-- ** Dashboard**: Created a visually appealing dashboard in Exel to highlight predictive factors.
+- **Dashboard**: Created a visually appealing dashboard in Exel to highlight predictive factors.
     
 ### Apple App Store Data Analysis
 
