@@ -91,6 +91,23 @@ This repository serves as a comprehensive showcase of my expertise in data analy
 
 - **Dashboard**: Created an engaging and user-friendly dashboard in Tableau to visualize key insights.
 
+### Iris Species Classification
+
+**Objective**: Develop a robust machine learning model to classify Iris species based on morphological measurements, enhancing the understanding of feature relationships and predictive model building.
+
+**Tools & Methods**:
+
+- **Python**: Conducted data pre-processing, exploratory analysis, and model creation using Python, employing libraries such as pandas, NumPy, Matplotlib, and Seaborn for data handling and visualization.
+
+- **Feature Engineering**: Engineered ratio features to encapsulate the relative dimensions of petals and sepals, capturing the innate differences among Iris species.
+
+- **Machine Learning Modeling**: Deployed a RandomForestClassifier, fine-tuned with GridSearchCV to ascertain the optimal set of hyperparameters, ensuring the model's efficacy.
+
+- **Cross-Validation**: Applied k-fold cross-validation to assess model consistency and reliability, resulting in high mean accuracy and low variance across folds.
+
+- **Data Visualization**: Crafted visual representations of feature importances and model accuracy to elucidate the classification patterns and results.
+
+- **Model Performance**: Accomplished an impressive mean cross-validation accuracy of 0.95 with a standard deviation of 0.03, demonstrating a model that performs with high precision and stability.
 
 Each project is accompanied by a thorough README document, providing an overview of the project's context, the analytical approach taken, and a summary of findings. By perusing these projects, you will gain insights into my problem-solving capabilities, technical expertise, and ability to communicate complex data-driven insights in a clear and impactful manner.
 Each project includes a combination of Jupyter notebooks, datasets, visualizations, and technical write-ups that illustrate my approach and findings.
