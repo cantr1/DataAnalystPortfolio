@@ -41,12 +41,12 @@ Data Analysis Process
     
     Visualization: Creating a range of visuals to represent the data effectively.
 
+    Modeling: Created a RandomForestClassifier that achieved 87% accuracy of predictions.
+
 Tools Used
 
     Python: The programming language of choice for data processing and analysis.
     
     Matplotlib and Seaborn: Python libraries used for creating visualizations.
 
-Contribution and Feedback
-
-Your insights and feedback are invaluable to this project. We encourage you to share your thoughts, suggest additional factors for analysis, or propose new methods for data interpretation.
+    SKLearn: Python library for predictive machine learning models.
