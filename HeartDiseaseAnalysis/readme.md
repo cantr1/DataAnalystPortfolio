@@ -12,14 +12,18 @@ Highlights of the Analysis
     along with patient 'age' and 'sex'. 
     These factors play a pivotal role in assessing the risk of heart disease.
 
-    Data Visualization: We've employed Python and its libraries Matplotlib and Seaborn 
+    Data Visualization: I've employed Python and its libraries Matplotlib and Seaborn 
     to create a suite of visualizations. These range from histograms to complex correlation heatmaps, 
     offering a visual exploration of the data and facilitating an understanding 
     of the intricate relationships between different health indicators.
 
-    Prevalence of Heart Disease: Our findings indicate that in the sampled data, 
+    Prevalence of Heart Disease: My findings indicate that in the sampled data, 
     55% of the patients are affected by heart disease. This significant proportion highlights 
     the critical nature of the issue and the need for focused preventive healthcare measures.
+
+    Machine Learning Model: Created a machine learning model with SKLearn that was shown to have 87% accuracy in predicting
+    heart disease.
+    
 
 Project Aim
 
