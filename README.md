@@ -5,35 +5,35 @@ Welcome to my professional portfolio on GitHub! I'm Kelly, an enthusiastic data 
 
 This repository serves as a comprehensive showcase of my expertise in data analysis, featuring projects that demonstrate my proficiency in:
 
-    Data Cleaning & Preprocessing: Conducting meticulous cleaning and 
+   - Data Cleaning & Preprocessing: Conducting meticulous cleaning and 
     preparation of datasets, ensuring they are free from inconsistencies 
     and formatted suitably for comprehensive analysis.
 
-    Exploratory Data Analysis (EDA): Diving deep into data to discover 
+   - Exploratory Data Analysis (EDA): Diving deep into data to discover 
     underlying patterns, identifying anomalies, and formulating hypotheses 
     through a methodical exploratory process.
 
-    Data Visualization: Converting intricate data sets into clear, 
+   - Data Visualization: Converting intricate data sets into clear, 
     actionable visual narratives using advanced tools like 
     Tableau, Power BI, Matplotlib, and Seaborn.
 
-    SQL & Database Management: Utilizing SQL to execute complex queries 
+   - SQL & Database Management: Utilizing SQL to execute complex queries 
     for data retrieval, manipulation, and management, ensuring 
     seamless database operations.
 
-    Programming Proficiency: Demonstrating strong coding skills 
+   - Programming Proficiency: Demonstrating strong coding skills 
     in Python for data analysis, employing libraries like pandas 
     and NumPy to streamline data workflows.
 
-    Statistical Analysis & Inference: Applying statistical methods 
+   - Statistical Analysis & Inference: Applying statistical methods 
     and probabilistic reasoning to analyze data trends, test hypotheses, 
     and validate findings with tools like SciPy and statsmodels.
 
-    Machine Learning & Predictive Modeling: Building and tuning predictive models 
+   - Machine Learning & Predictive Modeling: Building and tuning predictive models 
     using machine learning algorithms in scikit-learn to drive 
     data-driven forecasts and insights.
 
-    Reporting & Business Intelligence: Synthesizing data into informative reports 
+   - Reporting & Business Intelligence: Synthesizing data into informative reports 
     and dashboards that deliver business intelligence and facilitate data-driven 
     decision-making, backed by a solid foundation in data storytelling techniques.
 
@@ -79,18 +79,6 @@ This repository serves as a comprehensive showcase of my expertise in data analy
 
 - **Dashboard**: Created a visually appealing dashboard in Exel to highlight predictive factors.
     
-### Apple App Store Data Analysis
-
-**Objective**: Provide actionable insights to aspiring software developers on market trends.
-    
-**Tools & Methods**:
-
-- **SQL**: Executed complex queries to extract and analyze key data points from the App Store dataset.
-    
-- **Analysis**: Identified popular categories, trends in user ratings, and pricing strategies that correlate with higher user ratings and engagement.
-
-- **Dashboard**: Created an engaging and user-friendly dashboard in Tableau to visualize key insights.
-
 ### Iris Species Classification
 
 **Objective**: Develop a robust machine learning model to classify Iris species based on morphological measurements, enhancing the understanding of feature relationships and predictive model building.
